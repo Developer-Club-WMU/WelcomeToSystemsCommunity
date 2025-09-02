@@ -6,11 +6,12 @@ We also support a lot of our Club Operation Infrastructure such as the Club Serv
 
 ## Meet the Team:
 
-
 ### Sresthaa, Shaga - Head Lead Developer
 
-    Hey Everyone! Myself Sresthaa you can also just call me Shaga. I am a Master's Student in the Computer Science Program expected to graduate in Spring, 2026. I completed my Bachelor's Degree in Computer Science in 2021 and have worked as an Assistant Systems Engineer for two years before begining my Master's Program in 2024. 
-
+    Hey Everyone! Myself Sresthaa you can also just call me Shaga. I am a Master's Student in the 
+    Computer Science Program expected to graduate in Spring, 2026. I completed my Bachelor's Degree in 
+    Computer Science in 2021 and have worked as an Assistant Systems Engineer for two years before 
+    begining my Master's Program in 2024. 
 
 
 ### Wyatt, Edward Young - Lead Developer
