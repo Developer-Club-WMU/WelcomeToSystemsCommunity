@@ -15,7 +15,7 @@ We also support a lot of our Club Operation Infrastructure such as the Club Serv
 <img src="./assets/wyatt.jpg" width="200"/>
 
 ### Wyatt, Edward Young - Lead Developer
-<p align="justify">Hi, I’m Wyatt Young. I’m a senior here at Western Michigan University studying Computer Science and currently serve as an officer of the Systems Department. I’m AWS Cloud Practitioner certified and have hands-on experience working with AWS infrastructure at a global company. If you have any AWS-related questions, I’ll be happy to help, and if I don’t know the answer right away, I’ll make sure to find it for you! I enjoy learning about the cloud and how it can benefit organizations of all kinds through scalable, reliable infrastructure.</p>
+<p align="justify">Hi, I’m Wyatt Young. I’m a senior here at Western Michigan University studying Computer Science and currently serve as an officer of the Systems Department. I’m AWS Cloud Practitioner certified and have hands-on experience working with AWS infrastructure at a global company. If you have any AWS-related questions, I’ll be happy to help, and if I don’t know the answer right away, I’ll make sure to find it for you! I enjoy learning about the cloud and how it can benefit organizations of all kinds through scalable, reliable infrastructure.
 
 <br><br>
 As a member of the Systems Community, there is no expectation that everyone should know everything about everything Systems. We all learn at our own pace and have our own strengths. All that is expected of every member joining is to be proactive in learning said technologies, ask questions and try to understand why something works the way it is.
@@ -61,3 +61,4 @@ In this track, you’ll learn the essentials of Linux, from command-line navigat
 - Understand package management, system services, and user management  
 - Learn DevOps fundamentals such as CI/CD, configuration management, and observability  
 - Get hands-on with tools like Git, Ansible, Docker, and Kubernetes for modern systems management  
+</p>
