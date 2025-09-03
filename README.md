@@ -1,6 +1,6 @@
 # Welcome to the Systems Community!
 
-<p style="text-align: justify">A warm welcome to the Systems Community of the Developer Club! In this community, we do a lot of work related to Servers, On Prem Administration, Cloud Computing and Administration of said systems, Embedded Systems Development, DevOps and much more.<br>
+<p align="justify">A warm welcome to the Systems Community of the Developer Club! In this community, we do a lot of work related to Servers, On Prem Administration, Cloud Computing and Administration of said systems, Embedded Systems Development, DevOps and much more.<br>
 We also support a lot of our Club Operation Infrastructure such as the Club Server, Mac Mini's, securing the endpoints using proper Networking practices, etc. It may seem overwhelming at first, but as you get started you’ll quickly learn new things and even share that knowledge with others.</p>
 
 ## Meet the Team:
@@ -9,13 +9,13 @@ We also support a lot of our Club Operation Infrastructure such as the Club Serv
 
 ### Sresthaa, Shaga - Head Lead Developer
 
-<p style="text-align: justify">Hey Everyone! Myself Sresthaa you can also just call me Shaga. I am a Master's Student in the Computer Science Program expected to graduate in Spring, 2026. I completed my Bachelor's Degree in Computer Science in 2021 and have worked as an Assistant Systems Engineer for two years before begining my Master's Program in 2024.</p>
+<p align="justify">Hey Everyone! Myself Sresthaa you can also just call me Shaga. I am a Master's Student in the Computer Science Program expected to graduate in Spring, 2026. I completed my Bachelor's Degree in Computer Science in 2021 and have worked as an Assistant Systems Engineer for two years before begining my Master's Program in 2024.</p>
 <br><br>
 
 <img src="./assets/wyatt.jpg" width="200"/>
 
 ### Wyatt, Edward Young - Lead Developer
-<p style="text-align: justify">Hi, I’m Wyatt Young. I’m a senior here at Western Michigan University studying Computer Science and currently serve as an officer of the Systems Department. I’m AWS Cloud Practitioner certified and have hands-on experience working with AWS infrastructure at a global company. If you have any AWS-related questions, I’ll be happy to help, and if I don’t know the answer right away, I’ll make sure to find it for you! I enjoy learning about the cloud and how it can benefit organizations of all kinds through scalable, reliable infrastructure.</p>
+<p align="justify">Hi, I’m Wyatt Young. I’m a senior here at Western Michigan University studying Computer Science and currently serve as an officer of the Systems Department. I’m AWS Cloud Practitioner certified and have hands-on experience working with AWS infrastructure at a global company. If you have any AWS-related questions, I’ll be happy to help, and if I don’t know the answer right away, I’ll make sure to find it for you! I enjoy learning about the cloud and how it can benefit organizations of all kinds through scalable, reliable infrastructure.</p>
 
 <br><br>
 As a member of the Systems Community, there is no expectation that everyone should know everything about everything Systems. We all learn at our own pace and have our own strengths. All that is expected of every member joining is to be proactive in learning said technologies, ask questions and try to understand why something works the way it is.
