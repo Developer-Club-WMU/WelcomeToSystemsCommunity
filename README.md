@@ -10,14 +10,14 @@ We also support a lot of our Club Operation Infrastructure such as the Club Serv
 ### Sresthaa, Shaga - Head Lead Developer
 
 <p style="text-align: justify">Hey Everyone! Myself Sresthaa you can also just call me Shaga. I am a Master's Student in the Computer Science Program expected to graduate in Spring, 2026. I completed my Bachelor's Degree in Computer Science in 2021 and have worked as an Assistant Systems Engineer for two years before begining my Master's Program in 2024.</p>
-
+<br><br>
 
 <img src="./assets/wyatt.jpg" width="200"/>
 
 ### Wyatt, Edward Young - Lead Developer
 <p style="text-align: justify">Hi, I’m Wyatt Young. I’m a senior here at Western Michigan University studying Computer Science and currently serve as an officer of the Systems Department. I’m AWS Cloud Practitioner certified and have hands-on experience working with AWS infrastructure at a global company. If you have any AWS-related questions, I’ll be happy to help, and if I don’t know the answer right away, I’ll make sure to find it for you! I enjoy learning about the cloud and how it can benefit organizations of all kinds through scalable, reliable infrastructure.</p>
 
-
+<br><br>
 As a member of the Systems Community, there is no expectation that everyone should know everything about everything Systems. We all learn at our own pace and have our own strengths. All that is expected of every member joining is to be proactive in learning said technologies, ask questions and try to understand why something works the way it is.
 
 To ease into the community, we have setup several Tech Tracks each with a set of challenges for you to do in order to get you acquinted with the tech. The Tech Tracks as of writing are as follows:
