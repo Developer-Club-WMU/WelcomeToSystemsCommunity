@@ -9,7 +9,7 @@ We also support a lot of our Club Operation Infrastructure such as the Club Serv
 
 ### Sresthaa, Shaga - Head Lead Developer
 
-<p align="justify">Hey Everyone! Myself Sresthaa you can also just call me Shaga. I am a Master's Student in the Computer Science Program expected to graduate in Spring, 2026. I completed my Bachelor's Degree in Computer Science in 2021 and have worked as an Assistant Systems Engineer for two years before begining my Master's Program in 2024.</p>
+<p align="justify">Hey Everyone! Myself Sresthaa you can also just call me Shaga. I am a Master's Student in the Computer Science Program expected to graduate in Spring, 2026. I completed my Bachelor's Degree in Computer Science in 2021 and have worked as an Assistant Systems Engineer for two years. If you have any questions regarding to On-Prem Management, debugging issues or setting up servers or embedded systems, Ill be happy to answer such questions.</p>
 <br><br>
 
 <img src="./assets/wyatt.jpg" width="200"/>
