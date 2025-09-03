@@ -15,15 +15,15 @@ We also support a lot of our Club Operation Infrastructure such as the Club Serv
 <img src="./assets/wyatt.jpg" width="200"/>
 
 ### Wyatt, Edward Young - Lead Developer
-<p align="justify">Hi, I’m Wyatt Young. I’m a senior here at Western Michigan University studying Computer Science and currently serve as an officer of the Systems Department. I’m AWS Cloud Practitioner certified and have hands-on experience working with AWS infrastructure at a global company. If you have any AWS-related questions, I’ll be happy to help, and if I don’t know the answer right away, I’ll make sure to find it for you! I enjoy learning about the cloud and how it can benefit organizations of all kinds through scalable, reliable infrastructure.
+<p align="justify">Hi, I’m Wyatt Young. I’m a senior here at Western Michigan University studying Computer Science and currently serve as an officer of the Systems Department. I’m AWS Cloud Practitioner certified and have hands-on experience working with AWS infrastructure at a global company. If you have any AWS-related questions, I’ll be happy to help, and if I don’t know the answer right away, I’ll make sure to find it for you! I enjoy learning about the cloud and how it can benefit organizations of all kinds through scalable, reliable infrastructure.</p>
 
 <br><br>
-As a member of the Systems Community, there is no expectation that everyone should know everything about everything Systems. We all learn at our own pace and have our own strengths. All that is expected of every member joining is to be proactive in learning said technologies, ask questions and try to understand why something works the way it is.
+<p align="justify">As a member of the Systems Community, there is no expectation that everyone should know everything about everything Systems. We all learn at our own pace and have our own strengths. All that is expected of every member joining is to be proactive in learning said technologies, ask questions and try to understand why something works the way it is.
 
-To ease into the community, we have setup several Tech Tracks each with a set of challenges for you to do in order to get you acquinted with the tech. The Tech Tracks as of writing are as follows:
+To ease into the community, we have setup several Tech Tracks each with a set of challenges for you to do in order to get you acquinted with the tech. The Tech Tracks as of writing are as follows:</p>
 
 ## 1. On-Prem Administration and Infrastructure Management
-This track will introduce you to how servers are configured, deployed, and managed. You’ll learn about networking fundamentals such as DHCP, the IP stack, and the OSI model, as well as how to set up and maintain infrastructure. Virtualization and containerization tools like Hypervisors, KVM, and Docker will also be covered, giving you a strong foundation in on-prem system management.  
+<p align="justify">This track will introduce you to how servers are configured, deployed, and managed. You’ll learn about networking fundamentals such as DHCP, the IP stack, and the OSI model, as well as how to set up and maintain infrastructure. Virtualization and containerization tools like Hypervisors, KVM, and Docker will also be covered, giving you a strong foundation in on-prem system management.</p>  
 
 ### Learning Outcomes: 
 - Administer and maintain your own server setups (home lab, hosting server, automation, etc.)  
@@ -33,7 +33,7 @@ This track will introduce you to how servers are configured, deployed, and manag
 - Gain hands-on experience with virtualization tools such as Docker, Kubernetes, KVM, and Hypervisors  
 
 ## 2. Cloud Computing and Administration
-In this track, you’ll explore how applications and services are deployed in the cloud. Topics include virtual machines, container orchestration, scaling infrastructure, and managing cloud resources. You’ll also get hands-on experience with automation tools, cloud-native services, and the best practices needed to administer cloud environments efficiently.  
+<p align="justify">In this track, you’ll explore how applications and services are deployed in the cloud. Topics include virtual machines, container orchestration, scaling infrastructure, and managing cloud resources. You’ll also get hands-on experience with automation tools, cloud-native services, and the best practices needed to administer cloud environments efficiently.</p>  
 
 ### Learning Outcomes: 
 - Learn how cloud infrastructure is provisioned, managed, and scaled  
@@ -43,7 +43,7 @@ In this track, you’ll explore how applications and services are deployed in th
 - Gain confidence in monitoring, logging, and securing cloud workloads  
 
 ## 3. Embedded Systems Development
-This track focuses on the world of microcontrollers, IoT devices, and real-time systems. You’ll work with platforms like Arduino, STM32, and ESP32, and dive into low-level programming in C, C++, and Rust. Topics include hardware interfaces, real-time operating systems, and embedded software design.
+<p align="justify">This track focuses on the world of microcontrollers, IoT devices, and real-time systems. You’ll work with platforms like Arduino, STM32, and ESP32, and dive into low-level programming in C, C++, and Rust. Topics include hardware interfaces, real-time operating systems, and embedded software design.</p>
 
 ### Learning Outcomes: 
 - Program microcontrollers using C, C++, and Rust  
@@ -53,7 +53,7 @@ This track focuses on the world of microcontrollers, IoT devices, and real-time 
 - Learn the fundamentals of hardware/software integration and debugging  
 
 ## 4. Linux, DevOps, and Systems Management
-In this track, you’ll learn the essentials of Linux, from command-line navigation to shell scripting and package management. Building on that, you’ll explore DevOps practices such as continuous integration, automation, and monitoring, along with tools like Git, Ansible, and Kubernetes. The focus is on understanding how systems are built, deployed, and maintained in real-world environments.  
+<p align="justify">In this track, you’ll learn the essentials of Linux, from command-line navigation to shell scripting and package management. Building on that, you’ll explore DevOps practices such as continuous integration, automation, and monitoring, along with tools like Git, Ansible, and Kubernetes. The focus is on understanding how systems are built, deployed, and maintained in real-world environments.</p> 
 
 ### Learning Outcomes: 
 - Gain confidence using Linux for daily workflows and system administration  
@@ -61,4 +61,12 @@ In this track, you’ll learn the essentials of Linux, from command-line navigat
 - Understand package management, system services, and user management  
 - Learn DevOps fundamentals such as CI/CD, configuration management, and observability  
 - Get hands-on with tools like Git, Ansible, Docker, and Kubernetes for modern systems management  
-</p>
+
+# Development Resources
+
+- Pre Provisioned and On-Demand Linux Workstation VMs with a choice of Ubuntu or Fedora flavor by default and any distro upon specific request.
+- Three Mac mini instances with virtual VNC access.
+
+# Upcoming Projects
+
+- Virtual OpenMP Cluster Lab
